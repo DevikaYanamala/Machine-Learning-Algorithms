@@ -38,8 +38,8 @@ The goal is to classify iris species based on the given features using SVM.
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/svm-iris-practice.git
-   cd svm-iris-practice
+   git clone https://github.com/DevikaYanamala/Machine-Learning-Algorithms.git
+   cd Machine-Learning-Algorithms
    pip install -r requirements.txt
    jupyter notebook "SVM practice.ipynb"
 

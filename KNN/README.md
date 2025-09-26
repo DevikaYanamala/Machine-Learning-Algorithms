@@ -25,5 +25,5 @@ This project demonstrates how to use the **K-Nearest Neighbors (KNN) algorithm**
 
 ## 🚀 Run the Project
 ```bash
-git clone https://github.com/your-username/knn-digit-classifier.git && cd knn-digit-classifier && pip install -r requirements.txt && jupyter notebook "KNN exercise.ipynb"
+git clone https://github.com/DevikaYanamala/Machine-Learning-Algorithms.git && cd Machine-Learning-Algorithms && pip install -r requirements.txt && jupyter notebook "KNN exercise.ipynb"
 

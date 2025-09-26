@@ -65,6 +65,6 @@ The dataset used is the famous **Titanic dataset**, which contains passenger det
    ```bash
    git clone https://github.com/DevikaYanamala/Machine-Learning-Algorithms.git
    cd Machine-Learning-Algorithms
-2.pip install -r requirements.txt
-3.jupyter notebook "Decision Tree.ipynb"
+   pip install -r requirements.txt
+   jupyter notebook "Decision Tree.ipynb"
 

@@ -53,8 +53,8 @@ The goal is to classify the flower species based on the given features.
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-forest-iris.git
-   cd random-forest-iris
+   git clone https://github.com/DevikaYanamala/Machine-Learning-Algorithms.git
+   cd Machine-Learning-Algorithms
    pip install pandas matplotlib scikit-learn
    jupyter notebook "Random Forest.ipynb"
 
